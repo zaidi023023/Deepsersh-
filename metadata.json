@@ -1,0 +1,5 @@
+{
+  "name": "Elite Email Crawler & Decoder",
+  "description": "A high-performance web crawler and email extractor featuring Cloudflare decoding, multi-format export, and real-time scanning visualization.",
+  "requestFramePermissions": []
+}
